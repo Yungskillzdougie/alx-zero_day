@@ -1,2 +1,1 @@
-my first readme
-my second commit
+This file is mandatory in projects
